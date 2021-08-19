@@ -18,6 +18,10 @@ const io = require("socket.io")(http, {
     },
 });
 
+app.get("", (req, res) => {
+    res.send("hello world")
+})
+
 io.use(async (socket, next) => {
     // fetch token from handshake auth sent by FE
     const token = socket.handshake.auth.token;
