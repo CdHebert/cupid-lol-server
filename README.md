@@ -2,8 +2,8 @@
 
 GitHub Repo: [https://github.com/jbryant4/duoLOL] 
 
-<img src="preview1.png" alt="previewSearch" width="300" height="200"/> <img src="preview2.png" alt="previewSaved" width="300" height="200"/>
-
+![preview](./preview1.png)
+![preview](./preview2.png)
 ## Description
 
 A Full Stack MERN application utilizing GraphQL, Socket.io, and the RIOT API to build a place where League of Legends players can log in and meet other players.  Players can create character builds, add other users as friends, and chat with the community.
