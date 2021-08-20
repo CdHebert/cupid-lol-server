@@ -1,10 +1,12 @@
 # cupid-lol-server
 
-GitHub Repo: [https://github.com/jbryant4/duoLOL] 
+GitHub Repo for Cupid LOL graphql/react front and back end: [https://github.com/jbryant4/duoLOL] 
 
 ![preview](./preview1.png)
 ![preview](./preview2.png)
 ## Description
+
+this is only a Live server for the Cupid LOL chat application.
 
 A Full Stack MERN application utilizing GraphQL, Socket.io, and the RIOT API to build a place where League of Legends players can log in and meet other players.  Players can create character builds, add other users as friends, and chat with the community.
 
